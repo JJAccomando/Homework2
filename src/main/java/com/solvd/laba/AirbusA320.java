@@ -3,10 +3,10 @@ package com.solvd.laba;
 public class AirbusA320 extends AirplaneBase {
     
     private static final String CLASSIFICATION = "AA320";
-    private static final int NUM_SEATS = 520;
-    private static final int NUM_SEATS_FIRST = 16;
-    private static final int NUM_SEATS_BUSINESS = 92;
-    private static final int NUM_SEATS_ECON = 412;
+    private static final int NUM_SEATS = 146;
+    private static final int NUM_SEATS_FIRST = 14;
+    private static final int NUM_SEATS_BUSINESS = 20;
+    private static final int NUM_SEATS_ECON = 112;
 
     //AirbusA320 object constructor
     public AirbusA320() {
